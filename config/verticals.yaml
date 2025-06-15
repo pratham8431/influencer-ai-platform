@@ -1,0 +1,87 @@
+verticals:
+  food:
+    - "food vloggers"
+    - "cooking channels"
+  bikes:
+    - "bike riding"
+    - "motorcycle vlogs"
+  fashion:
+    - "sustainable fashion"
+    - "streetwear fashion"
+    - "luxury fashion"
+  travel:
+    - "travel vlogs"
+    - "adventure travel"
+    - "city guides"
+  tech:
+    - "tech review channels"
+    - "gadget unboxing"
+    - "programming tutorials"
+  art:
+    - "painting tutorials"
+    - "digital art"
+    - "installation art"
+  fitness:
+    - "home workouts"
+    - "yoga instructors"
+    - "crossfit training"
+  beauty:
+    - "makeup tutorials"
+    - "skincare routines"
+    - "hair styling"
+  gaming:
+    - "gameplay walkthroughs"
+    - "eSports commentary"
+    - "mobile gaming"
+  music:
+    - "music covers"
+    - "instrument tutorials"
+    - "music production"
+  education:
+    - "math lessons"
+    - "language learning"
+    - "history documentaries"
+  diy:
+    - "home improvement"
+    - "craft tutorials"
+    - "woodworking"
+  pets:
+    - "dog training"
+    - "cat care"
+    - "exotic pets"
+  automotive:
+    - "car reviews"
+    - "auto repair"
+    - "vehicle customization"
+  lifestyle:
+    - "minimalist living"
+    - "daily vlogs"
+    - "van life"
+  finance:
+    - "personal finance"
+    - "investing tips"
+    - "crypto analysis"
+  health:
+    - "mental health"
+    - "nutrition advice"
+    - "wellness"
+  comedy:
+    - "standup clips"
+    - "skit comedy"
+    - "satire channels"
+  parenting:
+    - "pregnancy tips"
+    - "parenting hacks"
+    - "kids activities"
+  science:
+    - "space exploration"
+    - "physics experiments"
+    - "biology lessons"
+  sports:
+    - "football highlights"
+    - "basketball training"
+    - "extreme sports"
+  photography:
+    - "photo tutorials"
+    - "camera reviews"
+    - "editing workflows"
